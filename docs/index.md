@@ -3,32 +3,12 @@
 ### 隐私政策
 
 钱去哪了App，使用CloudKit实现了您的数据备份功能，而CloudKit是Apple提供的API，所以您的数据只存在您的设备和您的iCloud账户中。
+如果您没有在钱去哪了App中启用iCloud同步，则您的数据只存在您的设备中。
 
+### 本隐私政策的变更
 
-```markdown
-Syntax highlighted code block
+我们可能会不时地更新该隐私政策。因此，建议您定期查看此页面以了解更新后的内容。我们会通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在此页面上发布后立即生效。
 
-# Header 1
-## Header 2
-### Header 3
+#### 联系我们
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codelishaohui/cashflow-privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+如果您对我们的隐私政策有任何疑问或建议，请随时通过 codelishaohui@gmail.com 与我们联系。
