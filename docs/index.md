@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+# 钱去哪了
 
-You can use the [editor on GitHub](https://github.com/codelishaohui/cashflow-privacy/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### 隐私政策
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+钱去哪了App，使用iCloudKit实现了您的数据备份，而iCloudKit是Apple提供的API，所以您
 
 ```markdown
 Syntax highlighted code block
