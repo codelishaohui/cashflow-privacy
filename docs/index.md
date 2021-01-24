@@ -1,7 +1,8 @@
 # 钱去哪了-多级分类记账
 
+
 <svg id="livetype" xmlns="http://www.w3.org/2000/svg" width="119.66407" height="40" viewBox="0 0 119.66407 40">
-  <title>Download_on_the_App_Store_Badge_US-UK_RGB_blk_4SVG_092917</title>
+  <title>下载App</title>
   <g>
     <g>
       <g>
@@ -46,6 +47,8 @@
     </g>
   </g>
 </svg>
+
+
 
 ## 产品截图
 ![Image](https://github.com/codelishaohui/cashflow-privacy/raw/main/docs/screenshot.png)
