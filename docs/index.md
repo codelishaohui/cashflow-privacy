@@ -2,7 +2,8 @@
 
 ### 隐私政策
 
-钱去哪了App，使用iCloudKit实现了您的数据备份，而iCloudKit是Apple提供的API，所以您
+钱去哪了App，使用CloudKit实现了您的数据备份功能，而CloudKit是Apple提供的API，所以您的数据只存在您的设备和您的iCloud账户中。
+
 
 ```markdown
 Syntax highlighted code block
