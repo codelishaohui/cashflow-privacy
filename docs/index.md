@@ -48,7 +48,7 @@
 </svg>
 
 ## 产品截图
-![Image](https://github.com/codelishaohui/cashflow-privacy/blob/main/docs/screenshot1.png)
+![Image](https://github.com/codelishaohui/cashflow-privacy/raw/main/docs/screenshot1.png)
 
 ### 隐私政策
 
