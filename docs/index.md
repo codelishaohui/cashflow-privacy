@@ -20,7 +20,7 @@
 
 ### 帮助与支持
 
-如果您对我们的隐私政策或App使用有任何疑问或建议，请随时通过 codelishaohui@gmail.com 与我们联系。
+如果您对我们的使用条款、隐私政策或App使用有任何疑问或建议，请随时通过 codelishaohui@gmail.com 与我们联系。
 
 
 @ Felix 最后一次更新日期：2021年1月29日
