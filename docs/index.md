@@ -2,7 +2,7 @@
 ## 产品截图
 ![Image](https://github.com/codelishaohui/cashflow-privacy/raw/main/docs/screenshot.png)
 
-### 隐私政策
+### 隐私政策（最后一次更新日期：2021年1月29日）
 
 钱去哪了App，使用CloudKit实现了您的数据备份功能，而CloudKit是Apple提供的API，所以您的数据只存在您的设备和您的iCloud账户中。
 如果您没有在钱去哪了App中启用iCloud同步，则您的数据只存在您的设备中。
