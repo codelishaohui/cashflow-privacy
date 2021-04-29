@@ -2,6 +2,10 @@
 ## 产品截图
 ![Image](https://github.com/codelishaohui/cashflow-privacy/raw/main/docs/screenshot.png)
 
+### 购买历史 / Purchases
+
+This information is anonymous and unrelated to the user's identity, and MoneyThings uses only the expiry date in it to inform users of the next renewal time.
+
 ### 使用条款 / Terms of Service
 感谢您使用钱去哪了App，在订阅前，请阅读以下条款：
 1. App使用订阅制，每个订阅周期结束时，将自动续期。
@@ -37,5 +41,5 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 
 
-@ Felix Last Update ：2021-02-13
+@ Felix Last Update ：2021-04-29
 
