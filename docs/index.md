@@ -4,6 +4,8 @@
 
 ### 购买历史 / Purchases
 
+购买信息是与用户的身份无关的匿名信息，钱去哪了App 仅使用其中的过期时间来告知用户下次续费时间。
+
 This information is anonymous and unrelated to the user's identity, and MoneyThings uses only the expiry date in it to inform users of the next renewal time.
 
 ### 使用条款 / Terms of Service
