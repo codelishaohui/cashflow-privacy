@@ -21,7 +21,7 @@ Thank you for using our App. Before subscribing, please read the following terms
 2. We offer 2 types of fees: $1.49 per month and $8.99 per year, both of which are automatic subscriptions.
 3. If you need to cancel your subscription, you can cancel the auto-renewal at least 24 hours before the end of the current subscription cycle.
 4. We are unable to issue refunds for the current subscription cycle, so please be sure to consider this when you make your payment.
-5. We also offer a one-time paid version for $15.99.
+5. We also offer a one-time paid version for $9.99.
 
 ### 隐私政策 / Privacy Policy
 
