@@ -14,17 +14,19 @@ This information is anonymous and unrelated to the user's identity, and MoneyThi
 2. 我们提供2种收费方式：每月¥6元，每年¥38元，均为自动订阅。
 3. 如果需要取消订阅，您可以在当前订阅周期结束前至少24小时取消自动续期。
 4. 当前订阅周期的费用，我们无法为您办理退款，请务必在付款时考虑清楚。
+5. 我们也提供一次性买断的机制，价格为¥68元。
 
 Thank you for using our App. Before subscribing, please read the following terms:
 1. The App uses a subscription system, and will automatically renew at the end of each subscription cycle.
 2. We offer 2 types of fees: $1.49 per month and $8.99 per year, both of which are automatic subscriptions.
 3. If you need to cancel your subscription, you can cancel the auto-renewal at least 24 hours before the end of the current subscription cycle.
 4. We are unable to issue refunds for the current subscription cycle, so please be sure to consider this when you make your payment.
+5. We also offer a one-time paid version for $15.99.
 
 ### 隐私政策 / Privacy Policy
 
 MoneyThings App，使用CloudKit实现了您的数据备份功能，而CloudKit是Apple提供的API，所以您的数据只存在您的设备和您的iCloud账户中。
-如果您没有在钱去哪了App中启用iCloud同步，则您的数据只存在您的设备中。
+如果您没有在 MoneyThings App中启用iCloud同步，则您的数据只存在您的设备中。
 
 App uses CloudKit to implement your data backup function, and CloudKit is an API provided by Apple, so your data is only stored in your device and your iCloud account.
 If you do not enable iCloud synchronization in App, your data will only be stored in your device.
