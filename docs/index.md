@@ -1,7 +1,4 @@
 
-## 产品截图
-![Image](https://github.com/codelishaohui/cashflow-privacy/raw/main/docs/screenshot.png)
-
 ### 购买历史 / Purchases
 
 购买信息是与用户的身份无关的匿名信息，MoneyThings App 仅使用其中的过期时间来告知用户下次续费时间。
