@@ -6,6 +6,7 @@
 This information is anonymous and unrelated to the user's identity, and MoneyThings uses only the expiry date in it to inform users of the next renewal time.
 
 ### 使用条款 / Terms of Service
+
 感谢您使用 MoneyThings App，在订阅前，请阅读以下条款：
 1. App使用订阅制，每个订阅周期结束时，将自动续期。
 2. 我们提供2种收费方式：每月¥6元，每年¥38元，均为自动订阅。
