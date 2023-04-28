@@ -1,7 +1,3 @@
-### 下载链接 / Download Links
-[![alt text](https://raw.githubusercontent.com/codelishaohui/cashflow-privacy/main/docs/badge-example-alternate_2x.png "App Store")](https://apps.apple.com/us/app/id1549694221)
-[![alt text](https://raw.githubusercontent.com/codelishaohui/cashflow-privacy/main/docs/Btn_BLACK.png "DIGITALYCHEE")](https://store.lizhi.io/site/products/id/604?cid=xiwqfkuh)
-
 ### 购买历史 / Purchases
 
 购买信息是与用户的身份无关的匿名信息，MoneyThings App 仅使用其中的过期时间来告知用户下次续费时间。
