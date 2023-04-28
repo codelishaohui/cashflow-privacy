@@ -1,3 +1,8 @@
+下载链接 / Download Links
+
+[![alt text](https://raw.githubusercontent.com/codelishaohui/cashflow-privacy/main/docs/Btn_BLACK.png "Download")](https://store.lizhi.io/site/products/id/604?cid=xiwqfkuh)
+
+
 **授权证明**
 
 Felix 授权 苏州荔枝数码科技有限公司 为大中国区官方合作伙伴，
@@ -17,9 +22,3 @@ authorizes DIGITALYCHEE TECHNOLOGY CO, LTD as our official partner in China,
 and it owns the right to sell the copyrighted software of us on their store: https://lizhi.io/store.
 Please don't purchase our product(s) from any other unauthorized websites.
 Customers who purchase from them are not allowed to enjoy the official customer support, including license retrieval, version update, tech assistance.
-
-
-下载链接 / Download Links
-
-[![alt text](https://raw.githubusercontent.com/codelishaohui/cashflow-privacy/main/docs/Btn_BLACK.png "Download")](https://store.lizhi.io/site/products/id/604?cid=xiwqfkuh)
-
