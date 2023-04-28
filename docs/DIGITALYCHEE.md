@@ -20,3 +20,6 @@ Customers who purchase from them are not allowed to enjoy the official customer 
 
 
 下载链接 / Download Links
+
+[![alt text](https://user-images.githubusercontent.com/2491201/207860717-6fdb10da-4944-4214-ad9f-ec2783a206bb.png "Download")](https://store.lizhi.io/site/products/id/604?cid=xiwqfkuh)
+
