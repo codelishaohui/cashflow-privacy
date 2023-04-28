@@ -17,3 +17,6 @@ authorizes DIGITALYCHEE TECHNOLOGY CO, LTD as our official partner in China,
 and it owns the right to sell the copyrighted software of us on their store: https://lizhi.io/store.
 Please don't purchase our product(s) from any other unauthorized websites.
 Customers who purchase from them are not allowed to enjoy the official customer support, including license retrieval, version update, tech assistance.
+
+
+下载链接 / Download Links
